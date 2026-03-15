@@ -1,21 +1,20 @@
 # Travel-Website
-## **welcome to this website**
-## summary * travel with journey*
+*Welcome to this Website*
+### Summary 
+** Travel with Journey **
 
 # 👨‍💻 Technology
--**html**
--**css**
+-**Html**
+-**Css**
 -**Boostrap**
--**js**
+-**Js**
 
 #  📸 Screenshort 
 <p align="centre">
-<img src="images/contact.page" widht = "45%" height="45%">
-<img src="images/About.page" widht = "45%" height="45%">
 
--**home**
+-**Home**
 ![alt text](home.png)
--**contact**
+-**Contact**
 ![alt text](contact.png)
  -**About**
 ![alt text](about.png)
