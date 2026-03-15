@@ -2,13 +2,13 @@
 ## **welcome to this website**
 ## summary * travel with journey*
 
-# % Technology
+# 👨‍💻 Technology
 -**html**
 -**css**
 -**Boostrap**
 -**js**
 
-# screenshort 
+#  📸 Screenshort 
 <p align="centre">
 <img src="images/contact.page" widht = "45%" height="45%">
 <img src="images/About.page" widht = "45%" height="45%">
